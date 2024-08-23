@@ -1,5 +1,16 @@
 # Getting Started with Create React App
 
+-_- Hello Every One ✋
+🌟— I’m excited to reveal my latest project— 🌟 
+This project about to make list that any one need to prepper before travelling 
+ 
+I used in this project
+-React.js
+-JavaScript
+-CSS
+-SASS
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
